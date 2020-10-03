@@ -1,0 +1,35 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.110*"good" + 0.051*"meet" + 0.041*"screen" + 0.030*"nice" + 0.022*"video" + 0.022*"work" + 0.019*"feature" + 0.019*"like" + 0.018*"google" + 0.016*"time"
+Topic: 1 
+Words: 0.053*"update" + 0.034*"meet" + 0.026*"screen" + 0.021*"love" + 0.020*"problem" + 0.019*"need" + 0.018*"good" + 0.017*"chat" + 0.015*"audio" + 0.014*"amaze"
+Topic: 2 
+Words: 0.042*"nice" + 0.042*"meet" + 0.042*"star" + 0.032*"best" + 0.027*"option" + 0.023*"study" + 0.020*"helpful" + 0.020*"version" + 0.017*"mode" + 0.016*"dark"
+Topic: 3 
+Words: 0.106*"meet" + 0.068*"google" + 0.057*"super" + 0.043*"like" + 0.018*"gmail" + 0.018*"good" + 0.016*"update" + 0.014*"problem" + 0.013*"open" + 0.013*"class"
+Topic: 4 
+Words: 0.058*"meet" + 0.040*"excellent" + 0.037*"help" + 0.031*"chat" + 0.031*"join" + 0.023*"good" + 0.020*"class" + 0.018*"video" + 0.016*"person" + 0.016*"problem"
+Topic: 5 
+Words: 0.374*"good" + 0.085*"class" + 0.058*"online" + 0.020*"meet" + 0.015*"better" + 0.009*"time" + 0.008*"rat" + 0.007*"useful" + 0.007*"problem" + 0.007*"school"
+Topic: 6 
+Words: 0.091*"meet" + 0.057*"join" + 0.044*"best" + 0.028*"work" + 0.024*"good" + 0.022*"great" + 0.021*"video" + 0.019*"fail" + 0.019*"show" + 0.019*"time"
+Topic: 7 
+Words: 0.230*"nice" + 0.037*"meet" + 0.032*"problem" + 0.019*"screen" + 0.017*"video" + 0.016*"voice" + 0.015*"worst" + 0.013*"good" + 0.013*"blur" + 0.013*"phone"
+Topic: 8 
+Words: 0.048*"class" + 0.044*"good" + 0.037*"time" + 0.037*"meet" + 0.035*"work" + 0.027*"online" + 0.023*"video" + 0.023*"join" + 0.019*"data" + 0.016*"awesome"
+Topic: 9 
+Words: 0.094*"meet" + 0.041*"video" + 0.039*"google" + 0.025*"problem" + 0.023*"quality" + 0.019*"audio" + 0.015*"thank" + 0.015*"good" + 0.014*"join" + 0.013*"clear"
+
+TF-IDF Model:
+
+Topic: 0 Word: 0.050*"best" + 0.040*"meet" + 0.021*"class" + 0.020*"awesome" + 0.017*"google" + 0.017*"problem" + 0.016*"screen" + 0.015*"video" + 0.014*"online" + 0.014*"break"
+Topic: 1 Word: 0.494*"good" + 0.192*"nice" + 0.014*"love" + 0.010*"experience" + 0.008*"video" + 0.007*"meet" + 0.007*"voice" + 0.006*"class" + 0.005*"online" + 0.005*"work"
+Topic: 2 Word: 0.057*"good" + 0.029*"meet" + 0.023*"nice" + 0.022*"class" + 0.021*"join" + 0.020*"online" + 0.016*"application" + 0.016*"useful" + 0.015*"video" + 0.015*"vedio"
+Topic: 3 Word: 0.140*"good" + 0.043*"better" + 0.024*"thank" + 0.023*"meet" + 0.021*"easy" + 0.019*"video" + 0.018*"great" + 0.017*"quality" + 0.016*"support" + 0.014*"audio"
+Topic: 4 Word: 0.019*"help" + 0.018*"nice" + 0.017*"meet" + 0.014*"rate" + 0.013*"stop" + 0.013*"like" + 0.013*"class" + 0.013*"problem" + 0.012*"work" + 0.010*"good"
+Topic: 5 Word: 0.032*"best" + 0.024*"excellent" + 0.023*"video" + 0.022*"dark" + 0.019*"problems" + 0.018*"meet" + 0.018*"super" + 0.017*"clear" + 0.016*"mode" + 0.014*"google"
+Topic: 6 Word: 0.081*"super" + 0.029*"meet" + 0.021*"join" + 0.019*"record" + 0.018*"good" + 0.015*"option" + 0.015*"better" + 0.015*"work" + 0.015*"chat" + 0.014*"screen"
+Topic: 7 Word: 0.037*"update" + 0.025*"worst" + 0.022*"feature" + 0.021*"meet" + 0.020*"good" + 0.017*"chat" + 0.016*"work" + 0.016*"helpful" + 0.014*"personal" + 0.014*"people"
+Topic: 8 Word: 0.069*"good" + 0.053*"useful" + 0.034*"amaze" + 0.027*"quality" + 0.026*"nice" + 0.023*"google" + 0.022*"meet" + 0.019*"students" + 0.018*"video" + 0.014*"superb"
+Topic: 9 Word: 0.164*"nice" + 0.052*"class" + 0.050*"online" + 0.042*"like" + 0.020*"great" + 0.019*"good" + 0.018*"meet" + 0.012*"super" + 0.010*"work" + 0.010*"okay"

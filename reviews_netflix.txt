@@ -1,0 +1,37 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.103*"nice" + 0.101*"great" + 0.058*"good" + 0.017*"watch" + 0.014*"thank" + 0.014*"card" + 0.011*"time" + 0.011*"get" + 0.009*"need" + 0.009*"remove"
+Topic: 1 
+Words: 0.168*"love" + 0.054*"netflix" + 0.031*"download" + 0.029*"watch" + 0.015*"movie" + 0.014*"want" + 0.012*"show" + 0.011*"easy" + 0.010*"wonderful" + 0.009*"account"
+Topic: 2 
+Words: 0.264*"good" + 0.067*"best" + 0.039*"watch" + 0.037*"amaze" + 0.025*"netflix" + 0.025*"open" + 0.018*"time" + 0.016*"love" + 0.009*"anime" + 0.008*"entertain"
+Topic: 3 
+Words: 0.079*"movies" + 0.066*"watch" + 0.041*"like" + 0.029*"love" + 0.028*"netflix" + 0.023*"great" + 0.022*"need" + 0.022*"show" + 0.016*"star" + 0.014*"update"
+Topic: 4 
+Words: 0.049*"awesome" + 0.041*"netflix" + 0.037*"work" + 0.028*"great" + 0.028*"love" + 0.026*"watch" + 0.024*"update" + 0.019*"time" + 0.016*"phone" + 0.016*"screen"
+Topic: 5 
+Words: 0.039*"like" + 0.033*"movies" + 0.033*"great" + 0.029*"netflix" + 0.029*"season" + 0.028*"series" + 0.024*"excellent" + 0.024*"anime" + 0.024*"good" + 0.018*"watch"
+Topic: 6 
+Words: 0.091*"netflix" + 0.024*"play" + 0.019*"movies" + 0.019*"video" + 0.018*"series" + 0.018*"watch" + 0.014*"great" + 0.013*"screen" + 0.013*"free" + 0.012*"audio"
+Topic: 7 
+Words: 0.048*"update" + 0.025*"cool" + 0.025*"work" + 0.018*"netflix" + 0.018*"time" + 0.015*"download" + 0.015*"love" + 0.014*"load" + 0.014*"issue" + 0.014*"stop"
+Topic: 8 
+Words: 0.055*"netflix" + 0.041*"movies" + 0.035*"show" + 0.033*"movie" + 0.032*"like" + 0.028*"watch" + 0.016*"good" + 0.013*"phone" + 0.012*"best" + 0.010*"wish"
+Topic: 9 
+Words: 0.075*"good" + 0.062*"show" + 0.039*"movies" + 0.037*"netflix" + 0.027*"watch" + 0.019*"love" + 0.017*"best" + 0.016*"film" + 0.016*"like" + 0.013*"error"
+
+TF-IDF Model:
+
+Topic: 0 Word: 0.016*"payment" + 0.015*"picture" + 0.014*"netflix" + 0.013*"excellent" + 0.011*"awsome" + 0.011*"exceptional" + 0.010*"update" + 0.009*"great" + 0.009*"login" + 0.008*"work"
+Topic: 1 Word: 0.083*"good" + 0.068*"amaze" + 0.039*"work" + 0.013*"perfect" + 0.013*"available" + 0.012*"netflix" + 0.012*"super" + 0.012*"movies" + 0.011*"download" + 0.010*"suck"
+Topic: 2 Word: 0.048*"nice" + 0.033*"like" + 0.032*"show" + 0.032*"cool" + 0.032*"movies" + 0.024*"need" + 0.020*"watch" + 0.019*"great" + 0.014*"netflix" + 0.011*"good"
+Topic: 3 Word: 0.180*"good" + 0.079*"nice" + 0.030*"excellent" + 0.027*"anime" + 0.023*"movies" + 0.017*"quality" + 0.017*"need" + 0.015*"like" + 0.011*"okay" + 0.010*"want"
+Topic: 4 Word: 0.119*"best" + 0.019*"love" + 0.016*"like" + 0.016*"movies" + 0.014*"show" + 0.014*"watch" + 0.013*"content" + 0.012*"great" + 0.012*"netflix" + 0.012*"movie"
+Topic: 5 Word: 0.031*"netflix" + 0.021*"better" + 0.014*"pretty" + 0.014*"video" + 0.013*"say" + 0.011*"open" + 0.011*"screen" + 0.010*"good" + 0.010*"nice" + 0.009*"expensive"
+Topic: 6 Word: 0.044*"movies" + 0.031*"great" + 0.016*"watch" + 0.015*"netflix" + 0.014*"wish" + 0.014*"enjoy" + 0.012*"wonderful" + 0.012*"cuties" + 0.012*"like" + 0.011*"show"
+Topic: 7 Word: 0.149*"great" + 0.042*"love" + 0.031*"good" + 0.015*"update" + 0.014*"watch" + 0.012*"netflix" + 0.011*"easy" + 0.009*"movies" + 0.009*"super" + 0.008*"crash"
+Topic: 8 Word: 0.058*"awesome" + 0.027*"netflix" + 0.024*"watch" + 0.023*"movie" + 0.023*"good" + 0.014*"open" + 0.011*"series" + 0.011*"love" + 0.010*"film" + 0.010*"enjoy"
+Topic: 9 Word: 0.228*"good" + 0.130*"love" + 0.028*"netflix" + 0.016*"movies" + 0.014*"time" + 0.012*"thank" + 0.011*"watch" + 0.008*"best" + 0.008*"show" + 0.007*"thing"
+1
+​

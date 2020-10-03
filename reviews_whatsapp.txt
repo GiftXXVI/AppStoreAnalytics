@@ -1,0 +1,36 @@
+
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.166*"great" + 0.030*"happy" + 0.023*"time" + 0.018*"think" + 0.015*"people" + 0.014*"message" + 0.014*"thank" + 0.012*"call" + 0.011*"download" + 0.011*"whatsapp"
+Topic: 1 
+Words: 0.481*"good" + 0.184*"nice" + 0.026*"whatsapp" + 0.011*"call" + 0.009*"chat" + 0.009*"communication" + 0.007*"work" + 0.007*"video" + 0.005*"update" + 0.005*"time"
+Topic: 2 
+Words: 0.101*"update" + 0.035*"like" + 0.033*"useful" + 0.029*"phone" + 0.024*"download" + 0.024*"work" + 0.020*"friends" + 0.018*"know" + 0.016*"whatsapp" + 0.013*"family"
+Topic: 3 
+Words: 0.142*"best" + 0.113*"love" + 0.040*"whatsapp" + 0.027*"cool" + 0.027*"problem" + 0.022*"star" + 0.021*"update" + 0.021*"application" + 0.016*"want" + 0.014*"message"
+Topic: 4 
+Words: 0.054*"amaze" + 0.034*"like" + 0.030*"work" + 0.029*"whatsapp" + 0.027*"better" + 0.027*"update" + 0.024*"time" + 0.024*"message" + 0.021*"superb" + 0.013*"stop"
+Topic: 5 
+Words: 0.081*"awesome" + 0.036*"send" + 0.024*"status" + 0.021*"message" + 0.020*"video" + 0.020*"worst" + 0.017*"problem" + 0.014*"whatsapp" + 0.013*"online" + 0.013*"freeze"
+Topic: 6 
+Words: 0.125*"good" + 0.047*"best" + 0.033*"slow" + 0.031*"experience" + 0.026*"helpful" + 0.026*"fast" + 0.024*"messenger" + 0.016*"days" + 0.010*"communication" + 0.010*"people"
+Topic: 7 
+Words: 0.132*"excellent" + 0.097*"super" + 0.037*"easy" + 0.023*"perfect" + 0.022*"fine" + 0.021*"update" + 0.017*"problem" + 0.015*"account" + 0.013*"whatsapp" + 0.011*"screen"
+Topic: 8 
+Words: 0.090*"whatsapp" + 0.045*"message" + 0.032*"group" + 0.026*"chat" + 0.020*"send" + 0.017*"update" + 0.014*"help" + 0.014*"great" + 0.013*"option" + 0.013*"like"
+Topic: 9 
+Words: 0.059*"video" + 0.054*"status" + 0.042*"thank" + 0.030*"update" + 0.026*"need" + 0.026*"chat" + 0.024*"whatsapp" + 0.020*"feature" + 0.017*"good" + 0.016*"call"
+
+TF-IDF Model:
+
+Topic: 0 Word: 0.133*"good" + 0.083*"nice" + 0.051*"like" + 0.046*"cool" + 0.040*"communication" + 0.030*"easy" + 0.017*"whatsapp" + 0.016*"lovely" + 0.015*"apps" + 0.014*"update"
+Topic: 1 Word: 0.027*"update" + 0.025*"apps" + 0.023*"superb" + 0.022*"voice" + 0.020*"call" + 0.017*"better" + 0.017*"video" + 0.017*"best" + 0.015*"goood" + 0.015*"think"
+Topic: 2 Word: 0.749*"good" + 0.017*"fine" + 0.010*"wonderful" + 0.008*"better" + 0.008*"work" + 0.007*"excellent" + 0.007*"whatsapp" + 0.007*"fast" + 0.006*"time" + 0.005*"perfect"
+Topic: 3 Word: 0.051*"update" + 0.043*"nice" + 0.039*"chat" + 0.031*"download" + 0.023*"problem" + 0.020*"best" + 0.016*"great" + 0.013*"good" + 0.012*"whatsapp" + 0.012*"take"
+Topic: 4 Word: 0.180*"best" + 0.163*"great" + 0.052*"good" + 0.045*"amaze" + 0.014*"messenger" + 0.012*"verry" + 0.011*"poor" + 0.011*"work" + 0.009*"update" + 0.009*"issue"
+Topic: 5 Word: 0.081*"good" + 0.079*"nice" + 0.037*"slow" + 0.032*"service" + 0.026*"khan" + 0.026*"happy" + 0.020*"important" + 0.017*"useful" + 0.012*"live" + 0.012*"feature"
+Topic: 6 Word: 0.440*"nice" + 0.086*"awesome" + 0.031*"helpful" + 0.031*"like" + 0.027*"perfect" + 0.024*"superb" + 0.024*"fantastic" + 0.021*"love" + 0.015*"best" + 0.011*"social"
+Topic: 7 Word: 0.143*"love" + 0.053*"useful" + 0.049*"amaze" + 0.031*"work" + 0.026*"great" + 0.021*"whatsapp" + 0.017*"easy" + 0.015*"kumar" + 0.015*"good" + 0.014*"friends"
+Topic: 8 Word: 0.130*"super" + 0.040*"nice" + 0.033*"thank" + 0.033*"whatsapp" + 0.027*"good" + 0.024*"message" + 0.023*"application" + 0.016*"send" + 0.014*"chat" + 0.014*"friends"
+Topic: 9 Word: 0.236*"excellent" + 0.110*"whatsapp" + 0.023*"messenger" + 0.022*"video" + 0.022*"experience" + 0.021*"need" + 0.017*"help" + 0.017*"reliable" + 0.014*"thank" + 0.013*"worst"
