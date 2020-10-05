@@ -1,0 +1,25 @@
+Bag of Words Model:
+
+Topic: 0 Words: 0.035*"easy" + 0.035*"awesome" + 0.030*"problem" + 0.024*"work" + 0.023*"video" + 0.023*"download" + 0.023*"working" + 0.018*"meeting" + 0.017*"camera" + 0.017*"stars"
+Topic: 1 Words: 0.563*"good" + 0.020*"meeting" + 0.020*"voice" + 0.017*"problem" + 0.013*"network" + 0.012*"experience" + 0.011*"video" + 0.009*"helps" + 0.009*"profile" + 0.009*"hear"
+Topic: 2 Words: 0.104*"online" + 0.072*"classes" + 0.065*"great" + 0.059*"super" + 0.058*"class" + 0.036*"meeting" + 0.029*"zoom" + 0.017*"useful" + 0.015*"help" + 0.013*"wonderful"
+Topic: 3 Words: 0.559*"nice" + 0.016*"thanks" + 0.014*"update" + 0.013*"meeting" + 0.012*"school" + 0.011*"zoom" + 0.009*"education" + 0.008*"application" + 0.008*"time" + 0.008*"sangat"
+Topic: 4 Words: 0.059*"problem" + 0.049*"meeting" + 0.037*"useful" + 0.036*"time" + 0.027*"network" + 0.020*"join" + 0.018*"zoom" + 0.016*"internet" + 0.016*"takes" + 0.015*"working"
+Topic: 5 Words: 0.080*"background" + 0.068*"virtual" + 0.063*"android" + 0.035*"version" + 0.028*"update" + 0.028*"zoom" + 0.026*"phone" + 0.021*"option" + 0.021*"mobile" + 0.016*"learning"
+Topic: 6 Words: 0.141*"best" + 0.088*"like" + 0.050*"love" + 0.036*"zoom" + 0.034*"meeting" + 0.014*"know" + 0.013*"time" + 0.013*"okay" + 0.010*"improve" + 0.010*"meetings"
+Topic: 7 Words: 0.049*"zoom" + 0.048*"excellent" + 0.036*"screen" + 0.032*"option" + 0.025*"sign" + 0.025*"host" + 0.023*"worst" + 0.018*"share" + 0.018*"chat" + 0.017*"good"
+Topic: 8 Words: 0.050*"better" + 0.047*"amazing" + 0.047*"good" + 0.042*"helpful" + 0.029*"meet" + 0.022*"data" + 0.022*"features" + 0.021*"clear" + 0.021*"google" + 0.021*"video"
+Topic: 9 Words: 0.084*"video" + 0.061*"audio" + 0.058*"quality" + 0.037*"zoom" + 0.035*"sound" + 0.025*"meeting" + 0.019*"meetings" + 0.018*"problems" + 0.017*"problem" + 0.014*"update"
+
+TF-IDF Model:
+
+Topic: 0 Word: 0.067*"online" + 0.053*"classes" + 0.034*"class" + 0.018*"good" + 0.018*"waste" + 0.017*"easy" + 0.016*"best" + 0.016*"data" + 0.014*"download" + 0.014*"voice"
+Topic: 1 Word: 0.029*"good" + 0.027*"work" + 0.026*"experience" + 0.020*"network" + 0.017*"problem" + 0.014*"video" + 0.013*"zoom" + 0.013*"meeting" + 0.013*"audio" + 0.013*"update"
+Topic: 2 Word: 0.049*"quality" + 0.047*"better" + 0.047*"helpful" + 0.030*"video" + 0.022*"best" + 0.021*"apps" + 0.021*"poor" + 0.018*"good" + 0.014*"audio" + 0.014*"bugs"
+Topic: 3 Word: 0.526*"nice" + 0.039*"awesome" + 0.028*"zoom" + 0.027*"application" + 0.023*"sign" + 0.015*"meeting" + 0.014*"fantastic" + 0.011*"update" + 0.011*"school" + 0.011*"usefull"
+Topic: 4 Word: 0.120*"super" + 0.079*"excellent" + 0.045*"love" + 0.019*"video" + 0.017*"thank" + 0.014*"zoom" + 0.012*"meeting" + 0.011*"great" + 0.011*"chat" + 0.009*"good"
+Topic: 5 Word: 0.044*"useful" + 0.035*"background" + 0.031*"virtual" + 0.026*"android" + 0.020*"clear" + 0.017*"problem" + 0.015*"meeting" + 0.014*"phone" + 0.013*"wonderful" + 0.013*"option"
+Topic: 6 Word: 0.593*"good" + 0.060*"best" + 0.021*"meeting" + 0.016*"study" + 0.012*"superb" + 0.010*"students" + 0.008*"sound" + 0.008*"zoom" + 0.008*"problem" + 0.007*"need"
+Topic: 7 Word: 0.075*"worst" + 0.063*"like" + 0.029*"cool" + 0.021*"learning" + 0.017*"meetings" + 0.014*"hate" + 0.014*"zoom" + 0.010*"good" + 0.009*"seen" + 0.009*"record"
+Topic: 8 Word: 0.077*"great" + 0.021*"fine" + 0.017*"working" + 0.014*"video" + 0.013*"happy" + 0.013*"okay" + 0.013*"good" + 0.010*"problem" + 0.010*"improvement" + 0.009*"zoom"
+Topic: 9 Word: 0.045*"amazing" + 0.020*"audio" + 0.016*"slow" + 0.014*"problems" + 0.012*"internet" + 0.011*"good" + 0.010*"connect" + 0.010*"install" + 0.009*"problem" + 0.009*"meeting"

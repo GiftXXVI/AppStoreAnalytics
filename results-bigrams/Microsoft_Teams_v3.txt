@@ -1,0 +1,45 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.212*"great" + 0.060*"useful" + 0.023*"meetings" + 0.022*"cool" + 0.017*"mobile" + 0.014*"teams" + 0.013*"study" + 0.011*"great_experience" + 0.010*"problem" + 0.010*"glitches"
+Topic: 1 
+Words: 0.115*"best" + 0.036*"chat" + 0.021*"screen" + 0.013*"android" + 0.011*"connection" + 0.010*"group" + 0.009*"people" + 0.007*"hangs" + 0.007*"pandemic" + 0.007*"problem"
+Topic: 2 
+Words: 0.023*"experience" + 0.023*"video" + 0.022*"working" + 0.014*"update" + 0.014*"good_quality" + 0.011*"times" + 0.009*"open" + 0.009*"video_quality" + 0.009*"clear" + 0.009*"pretty_good"
+Topic: 3 
+Words: 0.085*"like" + 0.075*"excellent" + 0.060*"classes" + 0.051*"love" + 0.049*"work" + 0.022*"time" + 0.012*"stars" + 0.012*"good_online" + 0.011*"problems" + 0.010*"nice_online"
+Topic: 4 
+Words: 0.077*"awesome" + 0.054*"better" + 0.048*"super" + 0.024*"perfect" + 0.022*"superb" + 0.021*"application" + 0.020*"good_online" + 0.015*"team" + 0.014*"online_class" + 0.013*"thank"
+Topic: 5 
+Words: 0.595*"good" + 0.047*"amazing" + 0.011*"slow" + 0.010*"meeting" + 0.007*"quality" + 0.007*"convenient" + 0.006*"studies" + 0.006*"download" + 0.005*"thanks" + 0.005*"data"
+Topic: 6 
+Words: 0.074*"easy" + 0.062*"teams" + 0.021*"phone" + 0.020*"online_classes" + 0.015*"meeting" + 0.012*"work" + 0.010*"microsoft_teams" + 0.010*"calls" + 0.009*"able" + 0.008*"going"
+Topic: 7 
+Words: 0.051*"class" + 0.037*"meeting" + 0.028*"best_online" + 0.027*"worst" + 0.025*"fantastic" + 0.019*"online" + 0.015*"tool" + 0.010*"meetings" + 0.010*"bugs" + 0.009*"okay"
+Topic: 8 
+Words: 0.322*"nice" + 0.026*"school" + 0.020*"wonderful" + 0.012*"good_experience" + 0.011*"microsoft" + 0.010*"teams" + 0.010*"meeting" + 0.009*"better_zoom" + 0.009*"easier" + 0.009*"apps"
+Topic: 9 
+Words: 0.037*"helpful" + 0.035*"user_friendly" + 0.032*"works" + 0.031*"good" + 0.014*"options" + 0.014*"problem" + 0.013*"fine" + 0.013*"features" + 0.012*"option" + 0.011*"time"
+
+TF-IDF Model:
+
+Topic: 0 
+Word: 0.095*"excellent" + 0.060*"amazing" + 0.058*"like" + 0.055*"awesome" + 0.012*"good" + 0.011*"students" + 0.011*"video_quality" + 0.010*"experience" + 0.010*"study" + 0.009*"works_great"
+Topic: 1 
+Word: 0.046*"super" + 0.020*"works" + 0.018*"slow" + 0.017*"good_experience" + 0.011*"good" + 0.010*"problems" + 0.008*"option" + 0.008*"apps" + 0.006*"teams" + 0.006*"like"
+Topic: 2 
+Word: 0.015*"fine" + 0.015*"teams" + 0.013*"time" + 0.012*"update" + 0.011*"glitches" + 0.011*"features" + 0.010*"meeting" + 0.008*"good" + 0.008*"learning" + 0.008*"hate"
+Topic: 3 
+Word: 0.170*"great" + 0.041*"worst" + 0.013*"problem" + 0.009*"good" + 0.008*"convenient" + 0.007*"good_study" + 0.006*"collaboration" + 0.006*"meeting" + 0.006*"useful_online" + 0.006*"teams"
+Topic: 4 
+Word: 0.359*"nice" + 0.072*"best" + 0.028*"helpful" + 0.008*"sign" + 0.007*"bugs" + 0.007*"meeting" + 0.007*"video" + 0.006*"complicated" + 0.005*"fast" + 0.005*"easier"
+Topic: 5 
+Word: 0.068*"love" + 0.030*"good" + 0.027*"fantastic" + 0.013*"download" + 0.012*"better_zoom" + 0.008*"overall_good" + 0.007*"star" + 0.007*"lags" + 0.006*"good_learning" + 0.006*"worst_seen"
+Topic: 6 
+Word: 0.049*"easy" + 0.033*"classes" + 0.026*"good_online" + 0.023*"work" + 0.021*"school" + 0.017*"class" + 0.016*"good" + 0.014*"working" + 0.012*"online_class" + 0.012*"nice_online"
+Topic: 7 
+Word: 0.028*"better" + 0.019*"best_online" + 0.018*"superb" + 0.018*"good" + 0.012*"great" + 0.012*"poor" + 0.010*"application" + 0.009*"online_classes" + 0.008*"classes" + 0.008*"brilliant"
+Topic: 8 
+Word: 0.027*"wonderful" + 0.016*"good" + 0.011*"good_quality" + 0.009*"data" + 0.009*"quality" + 0.009*"chat" + 0.008*"issues" + 0.008*"open" + 0.008*"meeting" + 0.007*"like"
+Topic: 9 
+Word: 0.534*"good" + 0.035*"useful" + 0.017*"cool" + 0.017*"user_friendly" + 0.009*"perfect" + 0.007*"meeting" + 0.007*"great_experience" + 0.006*"meetings" + 0.005*"work" + 0.005*"communication"

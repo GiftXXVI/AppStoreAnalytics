@@ -1,0 +1,45 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.103*"amazing" + 0.044*"problem" + 0.020*"follow" + 0.019*"instagram" + 0.018*"india" + 0.015*"loved" + 0.014*"option" + 0.011*"instagram_music" + 0.010*"feature" + 0.010*"music_option"
+Topic: 1 
+Words: 0.066*"update" + 0.022*"instagram" + 0.020*"want" + 0.017*"happy" + 0.017*"features" + 0.015*"posts" + 0.015*"music_option" + 0.010*"feed" + 0.010*"account" + 0.010*"followers"
+Topic: 2 
+Words: 0.051*"post" + 0.017*"perfect" + 0.014*"account" + 0.013*"like" + 0.010*"things" + 0.010*"problems" + 0.008*"posts" + 0.008*"instagram" + 0.007*"time" + 0.007*"updated"
+Topic: 3 
+Words: 0.124*"best" + 0.042*"excellent" + 0.040*"reels" + 0.025*"instagram" + 0.013*"account" + 0.012*"friends" + 0.011*"like" + 0.011*"beautiful" + 0.010*"star" + 0.010*"thank"
+Topic: 4 
+Words: 0.192*"love" + 0.027*"superb" + 0.025*"story" + 0.021*"wonderful" + 0.020*"instagram" + 0.011*"reels_option" + 0.011*"good_experience" + 0.011*"slow" + 0.010*"lovely" + 0.010*"problem"
+Topic: 5 
+Words: 0.439*"nice" + 0.019*"interesting" + 0.016*"fantastic" + 0.014*"instagram" + 0.013*"video" + 0.012*"okay" + 0.009*"worst" + 0.009*"social_media" + 0.006*"liked" + 0.005*"feature"
+Topic: 6 
+Words: 0.122*"like" + 0.063*"awesome" + 0.059*"instagram" + 0.023*"music" + 0.013*"know" + 0.012*"need" + 0.012*"useful" + 0.012*"problem" + 0.010*"people" + 0.008*"filter"
+Topic: 7 
+Words: 0.050*"cool" + 0.044*"instagram" + 0.021*"help" + 0.021*"best_social" + 0.019*"media" + 0.018*"insta" + 0.017*"easy" + 0.014*"people" + 0.013*"enjoy" + 0.013*"filters"
+Topic: 8 
+Words: 0.549*"good" + 0.013*"instagram" + 0.008*"application" + 0.007*"download" + 0.007*"bugs" + 0.007*"mast" + 0.007*"like" + 0.006*"fine" + 0.006*"working" + 0.005*"life"
+Topic: 9 
+Words: 0.127*"great" + 0.077*"super" + 0.025*"better" + 0.021*"love_instagram" + 0.013*"instagram" + 0.012*"experience" + 0.012*"problem" + 0.012*"open" + 0.011*"work" + 0.010*"time"
+
+TF-IDF Model:
+
+Topic: 0 
+Word: 0.022*"love_instagram" + 0.018*"fantastic" + 0.018*"perfect" + 0.012*"instagram" + 0.011*"friends" + 0.009*"reels_option" + 0.009*"good" + 0.009*"update" + 0.008*"star" + 0.008*"slow"
+Topic: 1 
+Word: 0.108*"great" + 0.024*"good" + 0.016*"best_social" + 0.014*"media" + 0.011*"story" + 0.009*"instagram" + 0.008*"thanks" + 0.008*"good_social" + 0.006*"stories" + 0.006*"getting"
+Topic: 2 
+Word: 0.369*"good" + 0.258*"nice" + 0.071*"love" + 0.048*"amazing" + 0.042*"awesome" + 0.007*"easy" + 0.006*"music_option" + 0.005*"instagram" + 0.005*"lovely" + 0.004*"problems"
+Topic: 3 
+Word: 0.035*"update" + 0.018*"insta" + 0.015*"work" + 0.011*"india_music" + 0.011*"application" + 0.010*"instagram" + 0.009*"filter" + 0.008*"stars" + 0.008*"like" + 0.008*"option"
+Topic: 4 
+Word: 0.105*"super" + 0.055*"cool" + 0.031*"instagram" + 0.029*"superb" + 0.021*"wonderful" + 0.016*"happy" + 0.014*"beautiful" + 0.008*"want" + 0.007*"like" + 0.007*"life"
+Topic: 5 
+Word: 0.055*"excellent" + 0.015*"problem" + 0.013*"worst" + 0.010*"followers" + 0.009*"instagram" + 0.008*"fabulous" + 0.008*"data" + 0.007*"account" + 0.007*"instagram_best" + 0.007*"update"
+Topic: 6 
+Word: 0.085*"like" + 0.018*"interesting" + 0.018*"instagram" + 0.015*"useful" + 0.015*"post" + 0.009*"follow" + 0.009*"download" + 0.009*"fine" + 0.008*"sucks" + 0.007*"instagram_music"
+Topic: 7 
+Word: 0.023*"music" + 0.021*"reels" + 0.014*"loved" + 0.014*"mast" + 0.012*"time" + 0.011*"nice" + 0.010*"instagram" + 0.010*"awsome" + 0.009*"fast" + 0.009*"filters"
+Topic: 8 
+Word: 0.027*"better" + 0.016*"enjoy" + 0.013*"instagram" + 0.013*"good_experience" + 0.011*"account" + 0.010*"update" + 0.009*"video" + 0.009*"good_application" + 0.008*"hate" + 0.007*"helpful"
+Topic: 9 
+Word: 0.152*"best" + 0.014*"bugs" + 0.014*"great" + 0.013*"okay" + 0.008*"instagram" + 0.008*"nice" + 0.008*"version" + 0.007*"poor" + 0.007*"need" + 0.006*"works"

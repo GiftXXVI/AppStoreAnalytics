@@ -1,0 +1,45 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.050*"funny" + 0.020*"dont" + 0.019*"update" + 0.018*"views" + 0.017*"easy" + 0.016*"worst" + 0.016*"sucks" + 0.014*"awsome" + 0.014*"people" + 0.013*"beautiful"
+Topic: 1 
+Words: 0.095*"love_tiktok" + 0.028*"follow" + 0.024*"like_tiktok" + 0.021*"apps" + 0.020*"toxic" + 0.015*"bored" + 0.015*"addictive" + 0.011*"content" + 0.010*"enjoying" + 0.010*"works"
+Topic: 2 
+Words: 0.115*"cool" + 0.035*"download" + 0.029*"live" + 0.017*"okay" + 0.016*"work" + 0.014*"life" + 0.013*"slow" + 0.012*"makes" + 0.011*"think" + 0.010*"hope"
+Topic: 3 
+Words: 0.465*"good" + 0.106*"amazing" + 0.019*"people" + 0.013*"videos" + 0.012*"better" + 0.011*"want" + 0.010*"fantastic" + 0.009*"pretty_good" + 0.008*"working" + 0.006*"time"
+Topic: 4 
+Words: 0.039*"entertaining" + 0.027*"help" + 0.016*"addicting" + 0.016*"know" + 0.014*"account" + 0.012*"kids" + 0.012*"addicted" + 0.012*"videos" + 0.012*"wish" + 0.010*"option"
+Topic: 5 
+Words: 0.345*"love" + 0.128*"great" + 0.019*"stars" + 0.018*"video" + 0.017*"super" + 0.016*"enjoy" + 0.014*"excellent" + 0.012*"famous" + 0.011*"perfect" + 0.009*"things"
+Topic: 6 
+Words: 0.354*"nice" + 0.034*"videos" + 0.030*"hate" + 0.022*"account" + 0.020*"time" + 0.013*"viral" + 0.013*"wonderful" + 0.012*"stuff" + 0.012*"amazing_love" + 0.010*"video"
+Topic: 7 
+Words: 0.135*"best" + 0.059*"awesome" + 0.024*"problem" + 0.019*"videos" + 0.018*"tiktok" + 0.015*"followers" + 0.014*"thank" + 0.014*"thanks" + 0.011*"friends" + 0.011*"thing"
+Topic: 8 
+Words: 0.036*"star" + 0.021*"post" + 0.020*"happy" + 0.019*"entertainment" + 0.018*"interesting" + 0.015*"videos" + 0.014*"need" + 0.014*"tiktok_best" + 0.013*"filters" + 0.012*"sound"
+Topic: 9 
+Words: 0.217*"like" + 0.143*"tiktok" + 0.018*"videos" + 0.013*"phone" + 0.012*"people" + 0.008*"fine" + 0.008*"dont_like" + 0.008*"page" + 0.008*"video" + 0.007*"tell"
+
+TF-IDF Model:
+
+Topic: 0 
+Word: 0.063*"love_tiktok" + 0.021*"videos" + 0.020*"good" + 0.020*"enjoy" + 0.019*"people" + 0.018*"best" + 0.011*"think" + 0.011*"love" + 0.011*"amazing_love" + 0.010*"like"
+Topic: 1 
+Word: 0.031*"hate" + 0.014*"beautiful" + 0.014*"fine" + 0.013*"apps" + 0.012*"like" + 0.012*"khan" + 0.010*"love" + 0.009*"favorite" + 0.009*"delete" + 0.008*"tiktok"
+Topic: 2 
+Word: 0.156*"best" + 0.015*"thanks" + 0.012*"like" + 0.011*"wonderful" + 0.011*"good" + 0.011*"boring" + 0.010*"help" + 0.008*"stuff" + 0.008*"tiktok" + 0.008*"loved"
+Topic: 3 
+Word: 0.127*"great" + 0.072*"awesome" + 0.037*"funny" + 0.031*"super" + 0.021*"amazing" + 0.021*"worst" + 0.020*"good" + 0.018*"trash" + 0.015*"happy" + 0.015*"like_tiktok"
+Topic: 4 
+Word: 0.495*"good" + 0.078*"cool" + 0.010*"time_pass" + 0.009*"slow" + 0.009*"addicting" + 0.007*"pretty_good" + 0.007*"viral" + 0.006*"watch" + 0.005*"live_option" + 0.005*"horrible"
+Topic: 5 
+Word: 0.121*"like" + 0.098*"amazing" + 0.057*"tiktok" + 0.022*"video" + 0.014*"okay" + 0.012*"toxic" + 0.011*"follow" + 0.011*"stars" + 0.010*"videos" + 0.008*"data"
+Topic: 6 
+Word: 0.027*"download" + 0.016*"sucks" + 0.016*"perfect" + 0.016*"work" + 0.015*"interesting" + 0.015*"entertainment" + 0.014*"views" + 0.013*"problem" + 0.013*"tiktok" + 0.011*"application"
+Topic: 7 
+Word: 0.361*"nice" + 0.028*"entertaining" + 0.015*"time" + 0.014*"love" + 0.013*"account" + 0.013*"star" + 0.011*"tiktok" + 0.011*"awsome" + 0.010*"want" + 0.009*"addicted"
+Topic: 8 
+Word: 0.022*"fantastic" + 0.022*"followers" + 0.015*"update" + 0.015*"know" + 0.014*"tiktok_best" + 0.014*"waste_time" + 0.013*"good_entertainment" + 0.011*"need" + 0.010*"problems" + 0.009*"world"
+Topic: 9 
+Word: 0.336*"love" + 0.022*"excellent" + 0.019*"better" + 0.019*"live" + 0.013*"famous" + 0.012*"good" + 0.011*"videos" + 0.010*"like" + 0.008*"makes" + 0.006*"post"
