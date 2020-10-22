@@ -1,0 +1,31 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.074*"amazing" + 0.040*"work" + 0.028*"fine" + 0.016*"message" + 0.011*"stars" + 0.011*"good_application" + 0.010*"service" + 0.010*"phone" + 0.009*"messenger" + 0.009*"online"
+
+Topic: 1 
+Words: 0.082*"update" + 0.040*"status" + 0.038*"cool" + 0.024*"superb" + 0.023*"perfect" + 0.021*"fantastic" + 0.017*"fast" + 0.015*"okay" + 0.013*"option" + 0.012*"want"
+
+Topic: 2 
+Words: 0.171*"whatsapp" + 0.139*"best" + 0.088*"excellent" + 0.036*"better" + 0.014*"time" + 0.009*"chat" + 0.008*"video_calling" + 0.007*"telegram" + 0.007*"chats" + 0.006*"chatting"
+
+Topic: 3 
+Words: 0.112*"love" + 0.028*"happy" + 0.021*"help" + 0.018*"worst" + 0.016*"whatsapp" + 0.016*"issue" + 0.015*"application" + 0.014*"years" + 0.012*"important" + 0.011*"whatsapp_messenger"
+
+Topic: 4 
+Words: 0.897*"good" + 0.007*"download" + 0.003*"singh" + 0.003*"whatsapp" + 0.003*"waste" + 0.002*"brilliant" + 0.002*"watsapp" + 0.002*"chat" + 0.002*"acha" + 0.002*"exellent"
+
+Topic: 5 
+Words: 0.026*"easy" + 0.025*"thanks" + 0.024*"whatsapp" + 0.019*"like" + 0.016*"know" + 0.014*"poor" + 0.012*"love_whatsapp" + 0.010*"kumar" + 0.010*"person" + 0.009*"update_whatsapp"
+
+Topic: 6 
+Words: 0.050*"video" + 0.019*"people" + 0.018*"whatsapp" + 0.017*"need" + 0.015*"version" + 0.014*"calls" + 0.012*"experience" + 0.012*"problem" + 0.009*"like" + 0.009*"time"
+
+Topic: 7 
+Words: 0.562*"nice" + 0.120*"great" + 0.085*"like" + 0.010*"good_experience" + 0.009*"friends" + 0.008*"interesting" + 0.006*"updates" + 0.006*"good_communication" + 0.005*"loved" + 0.005*"family"
+
+Topic: 8 
+Words: 0.143*"super" + 0.075*"awesome" + 0.037*"problem" + 0.027*"phone" + 0.020*"whats" + 0.015*"clear" + 0.014*"updating" + 0.014*"mast" + 0.010*"whatsapp" + 0.010*"lovely"
+
+Topic: 9 
+Words: 0.058*"useful" + 0.037*"working" + 0.034*"update" + 0.034*"thank" + 0.033*"slow" + 0.026*"helpful" + 0.022*"wonderful" + 0.020*"apps" + 0.017*"updated" + 0.014*"star"

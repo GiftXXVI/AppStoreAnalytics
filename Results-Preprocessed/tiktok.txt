@@ -1,0 +1,67 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.186*"best" + 0.046*"funny" + 0.027*"star" + 0.024*"time" + 0.022*"apps" + 0.020*"tiktok" + 0.015*"fantastic" + 0.013*"videos" + 0.011*"delete" + 0.011*"boring"
+
+Topic: 1 
+Words: 0.148*"great" + 0.128*"amazing" + 0.024*"super" + 0.020*"people" + 0.018*"excellent" + 0.012*"addicting" + 0.011*"like" + 0.010*"waste_time" + 0.010*"fine" + 0.009*"videos"
+
+Topic: 2 
+Words: 0.208*"like" + 0.070*"tiktok" + 0.032*"hate" + 0.009*"people" + 0.009*"tiktok_best" + 0.009*"vids" + 0.009*"addicted" + 0.009*"wonderful" + 0.008*"stupid" + 0.007*"things"
+
+Topic: 3 
+Words: 0.411*"love" + 0.021*"work" + 0.019*"videos" + 0.018*"trash" + 0.014*"thank" + 0.013*"perfect" + 0.012*"know" + 0.006*"time_pass" + 0.006*"people" + 0.006*"free"
+
+Topic: 4 
+Words: 0.063*"love_tiktok" + 0.024*"live" + 0.017*"better" + 0.015*"okay" + 0.015*"help" + 0.013*"tiktok" + 0.010*"thing" + 0.010*"account" + 0.009*"awsome" + 0.009*"videos"
+
+Topic: 5 
+Words: 0.601*"good" + 0.020*"sucks" + 0.013*"tiktok" + 0.013*"slow" + 0.012*"interesting" + 0.009*"beautiful" + 0.008*"videos" + 0.008*"lovely" + 0.008*"good_entertainment" + 0.006*"phone"
+
+Topic: 6 
+Words: 0.035*"video" + 0.029*"stars" + 0.026*"followers" + 0.024*"tiktok" + 0.018*"happy" + 0.016*"problem" + 0.013*"entertainment" + 0.012*"working" + 0.011*"viral" + 0.009*"data"
+
+Topic: 7 
+Words: 0.067*"awesome" + 0.039*"download" + 0.025*"thanks" + 0.019*"enjoy" + 0.019*"update" + 0.016*"stuff" + 0.015*"want" + 0.015*"dont" + 0.012*"watch" + 0.012*"install"
+
+Topic: 8 
+Words: 0.031*"account" + 0.029*"tiktok" + 0.028*"videos" + 0.025*"entertaining" + 0.019*"worst" + 0.014*"follow" + 0.014*"need" + 0.012*"views" + 0.011*"video" + 0.011*"makes"
+
+Topic: 9 
+Words: 0.352*"nice" + 0.101*"cool" + 0.019*"like_tiktok" + 0.018*"famous" + 0.017*"toxic" + 0.015*"tiktok" + 0.015*"life" + 0.012*"addictive" + 0.011*"application" + 0.009*"words"
+
+
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.029*"hate" + 0.022*"sucks" + 0.018*"account" + 0.018*"enjoy" + 0.014*"toxic" + 0.012*"working" + 0.012*"stars" + 0.012*"makes" + 0.011*"world" + 0.011*"addicted"
+
+Topic: 1 
+Words: 0.084*"tiktok" + 0.046*"funny" + 0.017*"people" + 0.016*"thanks" + 0.015*"entertainment" + 0.014*"thank" + 0.013*"viral" + 0.013*"beautiful" + 0.011*"amazing_love" + 0.011*"lovely"
+
+Topic: 2 
+Words: 0.476*"love" + 0.021*"fantastic" + 0.011*"khan" + 0.010*"time_pass" + 0.010*"bored" + 0.008*"want" + 0.007*"likes" + 0.007*"delete" + 0.007*"view" + 0.006*"problems"
+
+Topic: 3 
+Words: 0.106*"awesome" + 0.023*"time" + 0.022*"perfect" + 0.018*"interesting" + 0.016*"okay" + 0.015*"wonderful" + 0.012*"life" + 0.010*"things" + 0.010*"best_thing" + 0.009*"open"
+
+Topic: 4 
+Words: 0.174*"amazing" + 0.024*"video" + 0.016*"awsome" + 0.013*"addictive" + 0.011*"fine" + 0.011*"easy" + 0.010*"viral_video" + 0.009*"good_apps" + 0.008*"stupid" + 0.008*"content"
+
+Topic: 5 
+Words: 0.380*"nice" + 0.186*"best" + 0.098*"cool" + 0.070*"love_tiktok" + 0.016*"happy" + 0.014*"addicting" + 0.010*"watch" + 0.008*"enjoyable" + 0.007*"favorite" + 0.005*"makes_happy"
+
+Topic: 6 
+Words: 0.029*"excellent" + 0.023*"videos" + 0.021*"live" + 0.019*"better" + 0.017*"followers" + 0.013*"tiktok_best" + 0.010*"good_entertainment" + 0.010*"views" + 0.009*"tiktok" + 0.009*"pretty_good"
+
+Topic: 7 
+Words: 0.654*"good" + 0.025*"worst" + 0.013*"follow" + 0.012*"star" + 0.010*"work" + 0.008*"dont_like" + 0.008*"best_world" + 0.007*"install" + 0.006*"disgusting" + 0.005*"good_time"
+
+Topic: 8 
+Words: 0.163*"like" + 0.162*"great" + 0.021*"trash" + 0.020*"like_tiktok" + 0.016*"famous" + 0.015*"apps" + 0.014*"know" + 0.009*"words" + 0.007*"tiktok" + 0.006*"cancer"
+
+Topic: 9 
+Words: 0.047*"entertaining" + 0.042*"super" + 0.039*"download" + 0.017*"update" + 0.015*"waste_time" + 0.012*"friends" + 0.012*"love_best" + 0.012*"video_viral" + 0.011*"experience" + 0.009*"year"
+
+1
+​

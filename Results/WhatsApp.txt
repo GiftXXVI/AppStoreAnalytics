@@ -1,0 +1,31 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.667*"good" + 0.017*"amazing" + 0.010*"fantastic" + 0.009*"it" + 0.008*"so_good" + 0.004*"good_application" + 0.003*"very_helpful" + 0.002*"and" + 0.002*"top" + 0.002*"it_okay"
+
+Topic: 1 
+Words: 0.017*"better" + 0.015*"perfect" + 0.013*"not_good" + 0.012*"nyc" + 0.011*"okay" + 0.009*"whatsapp" + 0.009*"what_app" + 0.009*"good_experience" + 0.008*"to" + 0.007*"and"
+
+Topic: 2 
+Words: 0.084*"excellent" + 0.071*"whatsapp" + 0.053*"very_nice" + 0.025*"not_bad" + 0.014*"good" + 0.012*"very" + 0.012*"not" + 0.012*"the_best" + 0.010*"hi" + 0.008*"this_app_is"
+
+Topic: 3 
+Words: 0.324*"nice" + 0.032*"app" + 0.010*"mast" + 0.008*"good" + 0.007*"it" + 0.006*"fast" + 0.006*"it_is" + 0.006*"it_very_good" + 0.006*"my" + 0.005*"whatsapp_messenger"
+
+Topic: 4 
+Words: 0.100*"good_app" + 0.073*"great" + 0.023*"cool" + 0.018*"like_it" + 0.010*"awesome_app" + 0.010*"useful" + 0.009*"nice" + 0.007*"this_app" + 0.006*"app" + 0.006*"it_good_app"
+
+Topic: 5 
+Words: 0.117*"very_good" + 0.113*"nice_app" + 0.019*"superb" + 0.011*"kumar" + 0.009*"nice_aap" + 0.007*"and" + 0.006*"fair" + 0.006*"app" + 0.005*"this_is_very_good" + 0.005*"this_app_is_very"
+
+Topic: 6 
+Words: 0.049*"best" + 0.033*"awesome" + 0.016*"it" + 0.015*"very_nice_app" + 0.014*"fine" + 0.012*"like" + 0.011*"super_app" + 0.010*"very_useful" + 0.009*"wonderful" + 0.008*"and"
+
+Topic: 7 
+Words: 0.094*"super" + 0.028*"bad" + 0.017*"great_app" + 0.011*"happy" + 0.010*"and" + 0.008*"whats_app" + 0.007*"its" + 0.006*"nic" + 0.006*"it" + 0.006*"well"
+
+Topic: 8 
+Words: 0.108*"ok" + 0.026*"love_it" + 0.024*"wow" + 0.023*"very_good_app" + 0.016*"its_good" + 0.014*"no" + 0.009*"update" + 0.008*"am" + 0.007*"very_bad" + 0.006*"the"
+
+Topic: 9 
+Words: 0.025*"best_app" + 0.016*"gud" + 0.014*"love_this_app" + 0.014*"love" + 0.013*"osm" + 0.010*"op" + 0.010*"slow" + 0.010*"it_is_good" + 0.009*"like_this_app" + 0.008*"easy_to_use"

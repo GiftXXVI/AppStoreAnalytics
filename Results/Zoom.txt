@@ -1,0 +1,34 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.068*"very_good" + 0.051*"excellent" + 0.009*"so_good" + 0.007*"very_helpful" + 0.007*"good_but" + 0.007*"how_to" + 0.006*"it" + 0.006*"and" + 0.006*"school" + 0.006*"app"
+
+Topic: 1 
+Words: 0.072*"good_app" + 0.030*"not_bad" + 0.010*"superb" + 0.008*"not" + 0.008*"its_good" + 0.007*"this_app_is_good" + 0.007*"and" + 0.007*"this_is" + 0.007*"amazing_app" + 0.006*"app"
+
+Topic: 2 
+Words: 0.026*"very_good_app" + 0.016*"great" + 0.014*"worst_app" + 0.014*"it" + 0.010*"very_useful" + 0.009*"this_app" + 0.007*"and" + 0.007*"it_is_very_good" + 0.007*"app" + 0.007*"it_is_good_app"
+
+Topic: 3 
+Words: 0.056*"ok" + 0.019*"wow" + 0.011*"like_it" + 0.010*"cool" + 0.009*"love_this_app" + 0.008*"fine" + 0.008*"app" + 0.007*"excellent_app" + 0.006*"and" + 0.006*"it"
+
+Topic: 4 
+Words: 0.030*"best" + 0.011*"and" + 0.010*"great_app" + 0.009*"nice" + 0.007*"very" + 0.007*"gud" + 0.007*"so" + 0.007*"it" + 0.005*"average" + 0.005*"like"
+
+Topic: 5 
+Words: 0.038*"bad" + 0.019*"great" + 0.015*"amazing" + 0.010*"like_this_app" + 0.009*"good_app" + 0.009*"fantastic" + 0.008*"bad_app" + 0.007*"and" + 0.007*"it" + 0.007*"problem"
+
+Topic: 6 
+Words: 0.021*"very_nice_app" + 0.020*"best_app" + 0.014*"zoom" + 0.010*"very_bad_app" + 0.008*"meeting" + 0.008*"and" + 0.006*"it" + 0.006*"video" + 0.006*"in" + 0.006*"okay"
+
+Topic: 7 
+Words: 0.319*"good" + 0.152*"nice" + 0.086*"nice_app" + 0.024*"app" + 0.011*"it" + 0.007*"it_is" + 0.004*"meeting_app" + 0.004*"good_application" + 0.004*"and" + 0.004*"it_very_good"
+
+Topic: 8 
+Words: 0.031*"very_bad" + 0.028*"awesome" + 0.024*"not_good" + 0.011*"waste" + 0.010*"useful" + 0.008*"it_is_good" + 0.008*"it" + 0.007*"worst_app_ever" + 0.007*"not_so_good" + 0.007*"easy_to_use"
+
+Topic: 9 
+Words: 0.078*"super" + 0.039*"very_nice" + 0.018*"super_app" + 0.017*"love_it" + 0.015*"better" + 0.014*"worst" + 0.007*"and" + 0.006*"op" + 0.006*"good_for" + 0.005*"the"
+
+1
+​
