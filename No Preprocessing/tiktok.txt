@@ -1,0 +1,64 @@
+Bag of Words Model:
+
+Topic: 0 
+Words: 0.041*"greatJJ" + 0.023*"bestJJS" + 0.019*"theDT" + 0.015*"andCC" + 0.013*"timeNN" + 0.011*"bestJJS_appNN_everRB" + 0.011*"tiktokNN_isVBZ" + 0.011*"inIN" + 0.008*"tokNN" + 0.007*"soRB"
+
+Topic: 1 
+Words: 0.023*"andCC" + 0.020*"itPRP" + 0.013*"bestJJS_appNN" + 0.010*"butCC_itPRP" + 0.010*"justRB" + 0.009*"orCC" + 0.008*"veryRB_niceJJ" + 0.008*"itPRP_aDT_goodJJ" + 0.007*"butCC" + 0.007*"andCC_iJJ"
+
+Topic: 2 
+Words: 0.073*"appNN" + 0.032*"niceJJ_appNN" + 0.030*"iRB_loveVBP_thisDT_appNN" + 0.024*"andCC" + 0.015*"wowNN" + 0.014*"iNN" + 0.012*"loveVB_thisDT_appNN" + 0.010*"itPRP" + 0.008*"thisDT_isVBZ" + 0.007*"itsPRP$_goodJJ"
+
+Topic: 3 
+Words: 0.028*"thisDT_appNN" + 0.024*"badJJ" + 0.022*"veryRB_goodJJ" + 0.021*"itsPRP$" + 0.019*"coolNN" + 0.014*"aDT" + 0.012*"butCC" + 0.012*"likeIN" + 0.011*"isVBZ" + 0.009*"coolJJ"
+
+Topic: 4 
+Words: 0.196*"goodJJ" + 0.043*"loveVB_itPRP" + 0.023*"iNN_loveVBP_tikNN_tokNN" + 0.019*"okNN" + 0.013*"itPRP" + 0.012*"butCC" + 0.011*"itPRP_goodJJ" + 0.011*"veryRB" + 0.009*"appNN_everRB" + 0.008*"youPRP"
+
+Topic: 5 
+Words: 0.042*"goodJJ_appNN" + 0.030*"amazingVBG" + 0.021*"greatJJ_appNN" + 0.017*"toTO" + 0.016*"itPRP" + 0.014*"andCC" + 0.012*"amazingVBG_appNN" + 0.009*"goodJJ_butCC" + 0.009*"veryRB_goodJJ_appNN" + 0.008*"notRB"
+
+Topic: 6 
+Words: 0.049*"iNN_loveVBP_itPRP" + 0.042*"tiktokNN" + 0.015*"myPRP$" + 0.014*"mePRP" + 0.013*"iNN_likeIN_thisDT_appNN" + 0.011*"andCC" + 0.010*"videoNN" + 0.010*"soRB_muchJJ" + 0.010*"myPRP$_accountNN" + 0.009*"thanksNNS"
+
+Topic: 7 
+Words: 0.078*"niceJJ" + 0.033*"andCC" + 0.026*"funNN" + 0.018*"iNN_loveVBP" + 0.008*"aDT" + 0.008*"thatIN" + 0.007*"thisDT" + 0.007*"butCC" + 0.006*"happyJJ" + 0.006*"pleaseNN"
+
+Topic: 8 
+Words: 0.078*"itPRP" + 0.015*"andCC" + 0.013*"awesomeNN" + 0.010*"butCC" + 0.010*"itPRP_isVBZ" + 0.008*"toTO" + 0.007*"justRB" + 0.007*"theDT_appNN" + 0.007*"isVBZ" + 0.007*"onIN"
+
+Topic: 9 
+Words: 0.044*"andCC" + 0.027*"tikNN_tokNN" + 0.017*"iNN_likeIN_itPRP" + 0.016*"iNN_loveVBP_tiktokNN" + 0.012*"theDT_bestJJS" + 0.012*"itPRP" + 0.008*"thisDT" + 0.008*"butCC" + 0.008*"theDT" + 0.008*"ofIN"
+
+
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.239*"niceJJ" + 0.104*"niceJJ_appNN" + 0.021*"superNN" + 0.015*"veryRB" + 0.015*"itsPRP$_amazingNN" + 0.013*"thisDT_appNN_isVBZ_amazingVBG" + 0.012*"happyJJ" + 0.011*"thisDT_appNN" + 0.011*"soRB_goodJJ" + 0.009*"thisDT_appNN_isVBZ_veryRB"
+
+Topic: 1 
+Words: 0.289*"goodJJ" + 0.038*"coolNN" + 0.031*"itPRP" + 0.011*"funnyNN" + 0.009*"notRB_badJJ" + 0.009*"itPRP_amazingVBG" + 0.008*"loveNN_tiktokNN" + 0.007*"likeIN_itPRP" + 0.006*"andCC" + 0.006*"thisDT_isVBZ"
+
+Topic: 2 
+Words: 0.081*"iNN_loveVBP_itPRP" + 0.058*"greatJJ" + 0.038*"awesomeNN" + 0.034*"iNN_loveVBP_tikNN_tokNN" + 0.023*"theDT_bestJJS" + 0.016*"iNN_likeIN_thisDT_appNN" + 0.012*"likeIN" + 0.011*"soRB_muchJJ" + 0.009*"itPRP_aDT_goodJJ" + 0.008*"mePRP"
+
+Topic: 3 
+Words: 0.059*"iRB_loveVBP_thisDT_appNN" + 0.056*"appNN" + 0.038*"bestJJS_appNN" + 0.035*"loveVB_thisDT_appNN" + 0.028*"amazingVBG_appNN" + 0.017*"veryRB_goodJJ_appNN" + 0.017*"itPRP_goodJJ" + 0.015*"itsPRP$_goodJJ" + 0.012*"itsPRP$" + 0.012*"theDT_bestJJS_appNN"
+
+Topic: 4 
+Words: 0.037*"tikNN_tokNN" + 0.021*"bestJJS_appNN_everRB" + 0.017*"loveNN" + 0.009*"fantasticJJ" + 0.009*"andCC" + 0.008*"aDT" + 0.008*"soRB_funJJ" + 0.008*"appsNN" + 0.007*"perfectNN" + 0.007*"itPRP"
+
+Topic: 5 
+Words: 0.061*"funNN" + 0.041*"greatJJ_appNN" + 0.034*"iNN_likeIN_itPRP" + 0.024*"excellentNN" + 0.013*"awesomeJJ_appNN" + 0.012*"funNN_andCC" + 0.012*"itPRP_theDT_bestJJS" + 0.012*"entertainingVBG" + 0.008*"thisDT_appNN_isVBZ_soRB" + 0.007*"lovelyRB"
+
+Topic: 6 
+Words: 0.086*"goodJJ_appNN" + 0.045*"bestJJS" + 0.011*"iNNS_likeVBP_tiktokNN" + 0.011*"itsPRP$_theDT_bestJJS" + 0.008*"youPRP" + 0.008*"iRB_loveVBP_thisDT" + 0.008*"itPRP" + 0.007*"timeNN" + 0.007*"timeNN_passNN" + 0.007*"addictingVBG"
+
+Topic: 7 
+Words: 0.025*"iNN_loveVBP_tiktokNN" + 0.017*"veryRB_niceJJ" + 0.013*"iNN" + 0.012*"andCC" + 0.010*"itPRP" + 0.009*"awesomeJJ" + 0.007*"loveVB_theDT_appNN" + 0.007*"everRB" + 0.007*"tokNN" + 0.007*"itPRP_isVBZ_theDT_bestJJS"
+
+Topic: 8 
+Words: 0.056*"loveVB_itPRP" + 0.048*"amazingVBG" + 0.030*"wowNN" + 0.023*"tiktokNN" + 0.011*"veryRB_niceJJ_appNN" + 0.007*"andCC" + 0.006*"itPRP" + 0.006*"appNN" + 0.006*"coolNN_appNN" + 0.006*"thisDT"
+
+Topic: 9 
+Words: 0.040*"veryRB_goodJJ" + 0.029*"okNN" + 0.025*"iNN_loveVBP" + 0.019*"badJJ" + 0.011*"theDT_bestJJS_appNN_everRB" + 0.009*"veryRB_entertainingJJ" + 0.009*"andCC" + 0.009*"tiktokNN_isVBZ" + 0.008*"entertainmentNN" + 0.007*"itsPRP$_greatJJ"

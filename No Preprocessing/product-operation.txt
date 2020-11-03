@@ -1,0 +1,6 @@
+Product Operation - 
+Correctness - correct output, complete output, availability of output, responsiveness 
+Reliability - failure rate
+Efficiency  - usage of cpu, ram, data
+Integrity   - security exploits, breaches, unauthorized access
+Usability   - ease of use and learning to use
