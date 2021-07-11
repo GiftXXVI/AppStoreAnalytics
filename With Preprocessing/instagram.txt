@@ -1,0 +1,28 @@
+
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.041*"musicNN" + 0.022*"problemNN" + 0.015*"bugsNNS" + 0.012*"storyNN_musicNN" + 0.012*"reelNN" + 0.012*"dataNNS" + 0.011*"musicNN_featureNN" + 0.010*"filterNN" + 0.008*"videosNNS" + 0.008*"videoNN"
+
+Topic: 1 
+Words: 0.048*"updateNN" + 0.016*"featuresNNS" + 0.014*"followVB" + 0.012*"indiaNN" + 0.011*"versionNN" + 0.008*"addVB" + 0.007*"qualityNN" + 0.007*"jobNN" + 0.007*"cameraNN" + 0.006*"placeNN"
+
+Topic: 2 
+Words: 0.020*"workNN" + 0.018*"easyJJ" + 0.016*"peopleNNS" + 0.011*"starNN" + 0.009*"postsNNS" + 0.007*"algorithmNN" + 0.007*"glitchesNNS" + 0.005*"feelNN" + 0.005*"problemNN" + 0.005*"photoNN"
+
+Topic: 3 
+Words: 0.019*"timeNN" + 0.017*"facebookNN" + 0.015*"socialJJ" + 0.013*"friendsNNS" + 0.012*"updateJJ" + 0.009*"platformNN" + 0.009*"worksNNS" + 0.007*"thingsNNS" + 0.007*"featureNN" + 0.007*"updatedVBN"
+
+Topic: 4 
+Words: 0.040*"reelsNNS" + 0.018*"followersNNS" + 0.016*"filtersNNS" + 0.013*"starsNNS" + 0.011*"storyNN" + 0.011*"musicNN_storyNN" + 0.008*"favouriteNN" + 0.007*"indiaJJ_musicNN_featureNN" + 0.007*"solveNN_problemNN" + 0.007*"photosNNS"
+
+Topic: 5 
+Words: 0.021*"workingVBG" + 0.013*"problemsNNS" + 0.013*"updatesNNS" + 0.009*"favNN" + 0.008*"timeNN_passNN" + 0.007*"problemNN" + 0.007*"storiesNNS" + 0.006*"dayNN" + 0.006*"fbNN" + 0.005*"socialJJ_mediaNNS_platformNN"
+
+Topic: 6 
+Words: 0.046*"socialJJ_mediaNNS" + 0.017*"postNN" + 0.015*"adsNNS" + 0.012*"enjoyingVBG" + 0.012*"accountNN" + 0.008*"slowVB" + 0.007*"updatingVBG" + 0.007*"picturesNNS" + 0.006*"bugNN" + 0.006*"issuesNNS"
+
+
+Perplexity:  -9.063091223044626
+
+Coherence Score:  0.5695978882581574

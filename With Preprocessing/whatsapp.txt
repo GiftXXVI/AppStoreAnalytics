@@ -1,0 +1,27 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.027*"serviceNN" + 0.025*"poorJJ" + 0.019*"fullJJ" + 0.014*"messagesNNS" + 0.013*"phoneNN" + 0.012*"updatedVBN" + 0.009*"dataNNS" + 0.008*"issueNN" + 0.008*"reliableJJ" + 0.007*"secureNN"
+
+Topic: 1 
+Words: 0.044*"downloadNN" + 0.027*"helpfulNN" + 0.027*"chattingVBG" + 0.016*"fastNN" + 0.014*"messagingVBG" + 0.013*"updateJJ" + 0.011*"worksNNS" + 0.011*"beautifulNN" + 0.010*"problemsNNS" + 0.009*"improveVB"
+
+Topic: 2 
+Words: 0.024*"openJJ" + 0.023*"statusNN" + 0.022*"videoNN_callNN" + 0.022*"problemNN" + 0.015*"versionNN" + 0.013*"callsNNS" + 0.009*"privacyNN" + 0.008*"updateJJ" + 0.007*"performanceNN" + 0.006*"simpleNN"
+
+Topic: 3 
+Words: 0.030*"communicationNN" + 0.030*"slowVB" + 0.027*"timeNN" + 0.016*"updatingVBG" + 0.012*"installNN" + 0.012*"chatingVBG" + 0.011*"interestingVBG" + 0.008*"enjoyNN" + 0.008*"chatsNNS" + 0.007*"optionsNNS"
+
+Topic: 4 
+Words: 0.041*"easyJJ" + 0.038*"workNN" + 0.019*"featuresNNS" + 0.017*"friendsNNS" + 0.013*"clearJJ" + 0.013*"lifeNN" + 0.012*"updatesNNS" + 0.011*"familyNN" + 0.010*"yearsNNS" + 0.009*"workingVBG_properlyRB"
+
+Topic: 5 
+Words: 0.038*"workingVBG" + 0.019*"chatNN" + 0.016*"messageNN" + 0.014*"telegramNN" + 0.012*"starNN" + 0.012*"qualityNN" + 0.011*"starsNNS" + 0.011*"usefullNN" + 0.011*"addVB" + 0.008*"shareNN"
+
+Topic: 6 
+Words: 0.066*"updateNN" + 0.023*"callNN" + 0.019*"peopleNNS" + 0.014*"jobNN" + 0.012*"videoNN" + 0.012*"videoNN_callingVBG" + 0.011*"freeJJ" + 0.010*"slowJJ" + 0.010*"fairNN" + 0.009*"timesNNS"
+
+
+Perplexity:  -8.600596536410938
+
+Coherence Score:  0.6238652138490982

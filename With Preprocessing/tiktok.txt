@@ -1,0 +1,27 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.043*"funnyNN" + 0.013*"easyJJ" + 0.013*"friendsNNS" + 0.013*"gameNN" + 0.011*"stupidJJ" + 0.009*"horribleJJ" + 0.008*"darkJJ_modeNN" + 0.008*"phoneNN" + 0.008*"communityNN" + 0.007*"personNN"
+
+Topic: 1 
+Words: 0.028*"followersNNS" + 0.023*"trashNN" + 0.019*"workingVBG" + 0.017*"addictiveJJ" + 0.016*"updateNN" + 0.014*"wasteNN_timeNN" + 0.014*"problemNN" + 0.008*"yearsNNS" + 0.007*"addVB" + 0.007*"hoursNNS"
+
+Topic: 2 
+Words: 0.024*"starNN" + 0.023*"accountNN" + 0.015*"interestingVBG" + 0.012*"likesNNS" + 0.010*"boredVBN" + 0.009*"videosNN" + 0.009*"lotsNNS" + 0.008*"takesVBZ" + 0.007*"bcNN" + 0.006*"dramaNN"
+
+Topic: 3 
+Words: 0.039*"entertainingVBG" + 0.033*"videoNN" + 0.031*"peopleNNS" + 0.021*"starsNNS" + 0.017*"timeNN_passNN" + 0.014*"watchNN" + 0.014*"toxicNN" + 0.012*"installNN" + 0.011*"dataNNS" + 0.011*"addictedVBN"
+
+Topic: 4 
+Words: 0.029*"timeNN" + 0.023*"workNN" + 0.012*"viralJJ" + 0.010*"funnyJJ_videosNNS" + 0.010*"bitNN" + 0.009*"jobNN" + 0.009*"freeJJ" + 0.009*"enjoyingVBG" + 0.008*"supportNN" + 0.008*"glitchesNNS"
+
+Topic: 5 
+Words: 0.035*"entertainmentNN" + 0.028*"liveJJ" + 0.019*"viewsNNS" + 0.015*"contentNN" + 0.010*"problemsNNS" + 0.010*"postNN" + 0.010*"slowVB" + 0.010*"viralJJ_videoNN" + 0.009*"fullJJ" + 0.009*"adsNNS"
+
+Topic: 6 
+Words: 0.043*"downloadNN" + 0.041*"videosNNS" + 0.022*"famousJJ" + 0.019*"addictingVBG" + 0.013*"followVB" + 0.010*"danceNN" + 0.010*"boringNN" + 0.009*"musicallyRB" + 0.008*"deleteNN" + 0.007*"poorJJ"
+
+
+Perplexity:  -8.714056088012667
+
+Coherence Score:  0.6293344564005113

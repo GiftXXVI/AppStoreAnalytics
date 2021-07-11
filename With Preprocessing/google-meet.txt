@@ -1,0 +1,27 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.026*"workingVBG" + 0.026*"classNN" + 0.018*"videoNN" + 0.018*"studentsNNS" + 0.014*"schoolNN" + 0.012*"videoNN_callingVBG" + 0.009*"problemNN" + 0.008*"learningVBG" + 0.007*"cameraNN" + 0.007*"joinNN"
+
+Topic: 1 
+Words: 0.055*"onlineNN_classesNNS" + 0.020*"updateNN" + 0.015*"featuresNNS" + 0.014*"fullJJ" + 0.013*"poorJJ" + 0.012*"voiceNN" + 0.010*"audioJJ_videoNN" + 0.009*"ratingNN" + 0.009*"screenNN" + 0.008*"networkNN"
+
+Topic: 2 
+Words: 0.059*"meetNN" + 0.028*"helpfulNN" + 0.022*"videoNN_qualityNN" + 0.019*"qualityNN" + 0.019*"classesNNS" + 0.019*"workNN" + 0.011*"improvementNN" + 0.011*"wasteNN" + 0.010*"rateNN" + 0.010*"voiceNN_clearJJ"
+
+Topic: 3 
+Words: 0.092*"meetingNN" + 0.026*"meetingsNNS" + 0.025*"easyJJ" + 0.019*"dataNNS" + 0.015*"improveVB" + 0.011*"soundNN" + 0.010*"usefullNN" + 0.009*"darkJJ_modeNN" + 0.008*"videoNN_audioNN" + 0.008*"onlineNN_classNN"
+
+Topic: 4 
+Words: 0.052*"onlineJJ_classNN" + 0.022*"downloadNN" + 0.012*"audioNN" + 0.012*"videoNN_callNN" + 0.010*"workingVBG_properlyRB" + 0.009*"studentNN" + 0.009*"recordNN_meetingNN" + 0.008*"worksNNS" + 0.008*"starNN" + 0.006*"takesVBZ_dataNNS"
+
+Topic: 5 
+Words: 0.025*"studyNN" + 0.015*"timeNN" + 0.014*"problemsNNS" + 0.014*"clearJJ" + 0.009*"openJJ" + 0.009*"starsNNS" + 0.008*"meetingNN" + 0.008*"videoNN_clearJJ" + 0.007*"meetNN" + 0.007*"onlineNN"
+
+Topic: 6 
+Words: 0.020*"problemNN" + 0.016*"joinNN_meetingNN" + 0.008*"performanceNN" + 0.008*"voiceNN_breakingVBG" + 0.007*"versionNN" + 0.007*"meetingNN" + 0.007*"averageJJ" + 0.006*"splitNN_screenNN" + 0.006*"changeNN" + 0.006*"issueNN"
+
+
+Perplexity:  -8.891668565774651
+
+Coherence Score:  0.500703373411317

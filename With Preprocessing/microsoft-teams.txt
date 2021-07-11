@@ -1,0 +1,27 @@
+TF-IDF Model:
+
+Topic: 0 
+Words: 0.043*"schoolNN" + 0.026*"helpfulNN" + 0.012*"jobNN" + 0.010*"improvementNN" + 0.009*"optionsNNS" + 0.008*"toolNN" + 0.008*"videoNN_callNN" + 0.008*"businessNN" + 0.007*"loginNN" + 0.007*"networkNN"
+
+Topic: 1 
+Words: 0.062*"onlineNN_classesNNS" + 0.024*"workingVBG" + 0.019*"downloadNN" + 0.016*"learningVBG" + 0.014*"starsNNS" + 0.012*"glitchesNNS" + 0.012*"videoNN_qualityNN" + 0.011*"dataNNS" + 0.009*"bugsNNS" + 0.007*"meetNN"
+
+Topic: 2 
+Words: 0.035*"onlineJJ_classNN" + 0.028*"studyNN" + 0.016*"communicationNN" + 0.014*"problemNN" + 0.014*"signNN" + 0.014*"poorJJ" + 0.011*"convenientNN" + 0.011*"starNN" + 0.010*"wasteNN" + 0.007*"hangNN"
+
+Topic: 3 
+Words: 0.041*"workNN" + 0.019*"classNN" + 0.016*"timeNN" + 0.013*"problemsNNS" + 0.009*"educationNN" + 0.008*"collaborationNN" + 0.008*"clearJJ" + 0.007*"schoolNN_workNN" + 0.007*"chatNN" + 0.007*"officeNN"
+
+Topic: 4 
+Words: 0.022*"qualityNN" + 0.021*"classesNNS" + 0.011*"updateNN" + 0.009*"callNN" + 0.009*"studiesNNS" + 0.009*"prettyRB" + 0.008*"improveVB" + 0.008*"studyingVBG" + 0.008*"studentNN" + 0.007*"openJJ"
+
+Topic: 5 
+Words: 0.070*"easyJJ" + 0.035*"worksNNS" + 0.031*"meetingsNNS" + 0.022*"studentsNNS" + 0.014*"slowVB" + 0.010*"onlineNN" + 0.009*"issuesNNS" + 0.008*"platformNN" + 0.007*"skypeNN" + 0.007*"reliableJJ"
+
+Topic: 6 
+Words: 0.044*"meetingNN" + 0.027*"userRB_friendlyJJ" + 0.017*"teamNN" + 0.017*"featuresNNS" + 0.011*"phoneNN" + 0.011*"optionNN" + 0.010*"hangsNNS" + 0.007*"mobileNN" + 0.007*"fullJJ" + 0.007*"internetNN"
+
+
+Perplexity:  -8.967494520331416
+
+Coherence Score:  0.557757849138074
